@@ -1,0 +1,1 @@
+export type TeamType = 'sport' | 'santa' | 'nautico'; 
